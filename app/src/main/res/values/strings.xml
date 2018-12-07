@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpeedRead</string>
+    <string name="guide_title">はじめに</string>
+    <string name="guide_desc">Speed Read は電子書籍アプリの文字を認識する必要があるため下記の機能を利用します。これらの機能の権限許可をお願いします。\n\n・画面のスクリーンショット機能\n・常に最前面で表示する機能</string>
+    <string name="guide_desc_test">これはテスト用の文章です。試しにこの文章を読み取って問題なく表示されるかご確認ください。問題なければ他の電子書籍アプリを起動し、読み取る部分の範囲選択を行い使用して下さい。</string>
+    <string name="ok">OK</string>
+    <string name="start">スタート</string>
+    <string name="stop">終了する</string>
+    <string name="trim">読み取り範囲</string>
+    <string name="please_allow_permission">設定許可をお願いします</string>
+    <string name="flash_end">[読み取り終了]</string>
+</resources>
